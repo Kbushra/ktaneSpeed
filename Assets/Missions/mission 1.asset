@@ -14,7 +14,7 @@ MonoBehaviour:
   DisplayName: Sonic speed
   Description: Solve! Now!
   GeneratorSetting:
-    TimeLimit: 300
+    TimeLimit: 100
     NumStrikes: 3
     TimeBeforeNeedyActivation: 0
     FrontFaceOnly: 0
@@ -37,4 +37,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - speed
-  PacingEventsEnabled: 0
+  PacingEventsEnabled: 1
